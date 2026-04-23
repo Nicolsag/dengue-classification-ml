@@ -4,7 +4,7 @@
 Desenvolver um modelo para identificar casos de dengue com base em dados clínicos, priorizando a redução de falsos negativos.
 
 ## Abordagem
-- Modelos testados: Logistic Regression, Random Forest, XGBoost, LightGBM
+- Modelos testados: Logistic Regression, Random Forest, Ada Boost, XGBoost, LightGBM
 - Otimização com RandomizedSearchCV
 - Ajuste de threshold com foco em recall e custo de erro
 
