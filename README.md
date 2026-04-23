@@ -1,3 +1,23 @@
+# Detecção de Dengue com Machine Learning
+
+## Objetivo
+Desenvolver um modelo para identificar casos de dengue com base em dados clínicos, priorizando a redução de falsos negativos.
+
+## Abordagem
+- Modelos testados: Logistic Regression, Random Forest, XGBoost, LightGBM
+- Otimização com RandomizedSearchCV
+- Ajuste de threshold com foco em recall e custo de erro
+
+## Resultados
+- Recall: 0.90
+- Taxa de falsos negativos: 0.055
+- Modelo prioriza detecção de casos positivos
+
+## Tecnologias
+- Python
+- Scikit-learn
+- XGBoost / LightGBM
+- Pandas / NumPy
 
 
 ### Dataset:
