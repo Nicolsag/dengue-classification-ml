@@ -20,7 +20,7 @@ Desenvolver um modelo para identificar casos de dengue com base em dados clínic
 - Pandas / NumPy
 
 
-## Dataset:
+## Link do Google Colab:
 https://colab.research.google.com/drive/1V5_scElgR9ReoHiPwzVCMTZLINxCaMOh?usp=sharing
 
 
