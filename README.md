@@ -4,24 +4,27 @@
 Desenvolver um modelo para identificar casos de dengue com base em dados clínicos, priorizando a redução de falsos negativos.
 
 ## Abordagem
-- Modelos testados: Logistic Regression, Random Forest, Ada Boost, XGBoost, LightGBM
-- Otimização com RandomizedSearchCV
-- Ajuste de threshold com foco em recall e custo de erro
+- Modelos testados: Logistic Regression e Random Forest;
+- Otimização com Optuna;
+- Ajuste de threshold com foco em recall e custo de erro.
 
 ## Resultados
-- Recall: 0.90
-- Taxa de falsos negativos: 0.055
-- Modelo prioriza detecção de casos positivos
+- Acurácia  : 0.91;
+- Precisão  : 0.92;
+- Recall    : 0.95;
+- F1-score  : 0.93;
+- Modelo prioriza detecção de casos positivos.
 
 ## Tecnologias
-- Python
-- Scikit-learn
-- XGBoost / LightGBM
+- Python;
+- Scikit-learn;
+- Optuna;
 - Pandas / NumPy
+- Seaborn / Matplotlib.
 
 
 ## Link do Google Colab:
-https://colab.research.google.com/drive/1V5_scElgR9ReoHiPwzVCMTZLINxCaMOh?usp=sharing
+[https://colab.research.google.com/drive/1V5_scElgR9ReoHiPwzVCMTZLINxCaMOh?usp=sharing](https://colab.research.google.com/drive/1pgTREZ4zUdm3Vd0p7FxvlHrX2WFBB4e7#scrollTo=z64Rm7AwkawG)
 
 
 
